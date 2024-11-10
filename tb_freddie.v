@@ -97,8 +97,6 @@ module tb_freddie;
         s_rw = 0;
         #(period * 32);
 
-        // $stop; // Halt simulation
-
         #80 $finish;
     end
 
