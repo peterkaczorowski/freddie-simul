@@ -1,0 +1,1 @@
+-w -d c:/My_Designs/Atari_ICs/compile -s c:/My_Designs/Atari_ICs/library.cfg -j c:/My_Designs/Atari_ICs/projlib.cfg -work Freddie -2002 -work freddie c:/My_Designs/Atari_ICs/src/tb_freddie.vhd 

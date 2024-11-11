@@ -1,0 +1,56 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="001c42b04a81acf331672bc60b120600">freddie-waveform.asdb</database>
+    </databases>
+    <gridshown/>
+    <signallists>
+        <signallist id="0">
+        <signal>/freddie_tb/s_a</signal>
+        <signal>/freddie_tb/s_ba</signal>
+        <signal>/freddie_tb/s_cas</signal>
+        <signal>/freddie_tb/s_casinh</signal>
+        <signal>/freddie_tb/s_clk_in</signal>
+        <signal>/freddie_tb/s_clk_out</signal>
+        <signal>/freddie_tb/s_extsel</signal>
+        <signal>/freddie_tb/s_osc</signal>
+        <signal>/freddie_tb/s_phi2</signal>
+        <signal>/freddie_tb/s_ras</signal>
+        <signal>/freddie_tb/s_rst</signal>
+        <signal>/freddie_tb/s_rw</signal>
+        <signal>/freddie_tb/s_w</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="0" end_time="2846504" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="2800000" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="0" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>

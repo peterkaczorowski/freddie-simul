@@ -1,0 +1,34 @@
+Active-HDL 15.0.261.9132 2024-11-11 13:08:12
+
+Elaboration top modules:
+Architecture                  testbench(freddie_tb)
+
+
+---------------------------------------------------------------------------------------------
+Entity     | Architecture | Library | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------
+freddie_tb | testbench    | Freddie |      | 15.0.261.9132 (Windows64) | 
+freddie    | behaviour    | Freddie |      | 15.0.261.9132 (Windows64) | 
+---------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------
+VHDL Package              | Library | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------
+standard                  | std     |      |                           | <unavailable>
+TEXTIO                    | std     |      | 15.0.261.9132 (Windows64) |  -2019
+std_logic_1164            | ieee    |      | 15.0.261.9132 (Windows64) |  -2008
+---------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------
+Library                   | Comment
+---------------------------------------------------------------------------------------------
+Freddie                   | None
+ieee                      | Standard IEEE packages library
+std                       | Standard VHDL library
+---------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access +r +m+freddie_tb freddie_tb
+
+
+The performance of simulation is reduced. Version Student Edition
