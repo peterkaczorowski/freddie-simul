@@ -37,7 +37,12 @@ ARCHITECTURE testbench OF freddie_tb IS
 	SIGNAL s_cas : STD_ULOGIC;
 	SIGNAL s_w : STD_ULOGIC;
 	SIGNAL s_ba : STD_ULOGIC_VECTOR(7 DOWNTO 0);
-	CONSTANT period : TIME := 35 ns;
+
+	-- PAL
+	CONSTANT period : TIME := 35242 ps;
+
+	-- NTSC
+	-- CONSTANT period : TIME := 34910 ps;
 
 BEGIN
 
